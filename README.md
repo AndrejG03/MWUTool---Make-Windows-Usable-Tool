@@ -5,7 +5,7 @@
 ## Warning
 I do not take responsibility for what may happen to your system. This is at your own risk.
 
-## Before running WOR (stand by)
+## Before running MWUT (stand by)
 ![](https://raw.githubusercontent.com/gordonbay/Windows-On-Reins/master/.github/BEFORE.PNG)
 
 ## After (stand by)
