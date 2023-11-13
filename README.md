@@ -1,6 +1,5 @@
-# Windows On Reins - Windows 10 Ameliorated, Bloatware removal, privacy fix and performance optimization
-[![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/SGHFtvx4bN)
+# MWUT - Make-Windows-Usable-Tool  - Windows 10 Ameliorated, Bloatware removal, privacy fix and performance optimization
+
 
 ## Warning
 I do not take responsibility for what may happen to your system. This is at your own risk.
